@@ -72,7 +72,7 @@ Multi-source Integration — Merging logs, sensors, and social data into one war
 Web Server DashboardIoT Sensor DashboardHTTP error rates, endpoint latencyTemperature alerts, sensor heatmap
 
 👨‍💻 Author
-[Your Name]
+Infant Preshith P
 III Year B.E. Computer Science and Engineering
 Course: 22CSEDE23 – Big Data Analytics
 
